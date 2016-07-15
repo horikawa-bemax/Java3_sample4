@@ -1,0 +1,8 @@
+package hamburgershop;
+
+public class SaseboBurger extends Hamburger{
+	public SaseboBurger(){
+		name = "ç≤ê¢ï€ÉoÅ[ÉKÅ[";
+		price = 580;
+	}
+}
